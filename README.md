@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbeerJoshi125518
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Tkinter and Pygame
+- 🌱 I’m nowadays programming in tkinter module and creating GUI AIs
 - 💞️ I’m looking to collaborate on Tkinter
 - 📫 contact me lovemusic.abeer.joshi@gmail.com
 
